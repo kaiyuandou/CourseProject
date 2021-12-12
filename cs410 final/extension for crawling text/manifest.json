@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "HTML to Text",
+  "name": "extension for crawling text",
   "description": "This extension allows the user to extract the text from a webpage.",
   "version": "0.1",
   "background": {
