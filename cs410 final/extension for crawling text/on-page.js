@@ -11,4 +11,4 @@ function download(filename, text) {
   document.body.removeChild(element);
 }
 
-download("rpb.txt", document.body.innerText);
+download("crawling.txt", document.body.innerText);
